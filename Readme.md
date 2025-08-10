@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://files.catbox.moe/m6oqdl.jpg" width="300"/>
+  <img src="https://files.catbox.moe/jio4vi.jpg" width="300"/>
 
   <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=1500&color=00FFFF&center=true&width=600&lines=INFINITY-MD" alt="INFINITY-MD" />
